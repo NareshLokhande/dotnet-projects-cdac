@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FEBA30E-190F-4728-9802-2F9B86EE37A9}|FieldsAndProperties\\FieldsAndProperties.csproj|f:\\cdac\\module 8 - dotnet\\codes\\day1\\fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FEBA30E-190F-4728-9802-2F9B86EE37A9}|FieldsAndProperties\\FieldsAndProperties.csproj|solutionrelative:fieldsandproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19477C18-D05C-49A3-9F23-799EE05E8BEF}|Assignment_1\\Assignment_1.csproj|f:\\cdac\\module 8 - dotnet\\codes\\day1\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19477C18-D05C-49A3-9F23-799EE05E8BEF}|Assignment_1\\Assignment_1.csproj|solutionrelative:assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day1\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment_1\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day1\\Assignment_1\\Program.cs",
+              "RelativeToolTip": "Assignment_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:30:18.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeDocumentMoniker": "FieldsAndProperties\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day1\\FieldsAndProperties\\Program.cs",
+              "RelativeToolTip": "FieldsAndProperties\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:29:16.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
