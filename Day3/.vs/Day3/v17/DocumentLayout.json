@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}|Nullabletype\\Nullabletype.csproj|f:\\cdac\\module 8 - dotnet\\codes\\day3\\nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}|Nullabletype\\Nullabletype.csproj|solutionrelative:nullabletype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{714B4D2D-0FD1-47F7-83F2-03DC7712004F}|Interfaces\\Interfaces.csproj|f:\\cdac\\module 8 - dotnet\\codes\\day3\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{714B4D2D-0FD1-47F7-83F2-03DC7712004F}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day3\\Nullabletype\\Program.cs",
+              "RelativeDocumentMoniker": "Nullabletype\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day3\\Nullabletype\\Program.cs",
+              "RelativeToolTip": "Nullabletype\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:38:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day3\\Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "Interfaces\\Program.cs",
               "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day3\\Interfaces\\Program.cs",
               "RelativeToolTip": "Interfaces\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T07:08:49.345Z",
               "EditorCaption": ""

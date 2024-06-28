@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{714B4D2D-0FD1-47F7-83F2-03DC7712004F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{714B4D2D-0FD1-47F7-83F2-03DC7712004F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullabletype", "Nullabletype\Nullabletype.csproj", "{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{714B4D2D-0FD1-47F7-83F2-03DC7712004F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{714B4D2D-0FD1-47F7-83F2-03DC7712004F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{714B4D2D-0FD1-47F7-83F2-03DC7712004F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2686BC7-07DC-42ED-8AB1-C2B70A76A4E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
