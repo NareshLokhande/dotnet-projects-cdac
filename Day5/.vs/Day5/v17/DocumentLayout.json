@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E4F6794-95CE-47F4-8007-D96CD3E0713C}|TuplesAndValueTuples\\TuplesAndValueTuples.csproj|f:\\cdac\\module 8 - dotnet\\codes\\day5\\tuplesandvaluetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4F6794-95CE-47F4-8007-D96CD3E0713C}|TuplesAndValueTuples\\TuplesAndValueTuples.csproj|solutionrelative:tuplesandvaluetuples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day5\\TuplesAndValueTuples\\Program.cs",
+              "RelativeDocumentMoniker": "TuplesAndValueTuples\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Day5\\TuplesAndValueTuples\\Program.cs",
+              "RelativeToolTip": "TuplesAndValueTuples\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:51:42.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
