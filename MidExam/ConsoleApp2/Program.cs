@@ -293,7 +293,6 @@ namespace ConsoleApp2
             }
             Console.WriteLine();
 
-
             //k. Demonstrate join , few properties of both
             var selectedPropertiesJoin = from p in Products
                                          join c in Categories

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\modelbinding\\modelbinding\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\modelbinding\\modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\modelbinding\\modelbinding\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C880529D-4A33-4B31-B071-FE4A6A2AE2AC}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Controllers\\EmployeesController.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ModelBinding\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA4wFoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:11:17.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Program.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Program.cs",
+              "RelativeToolTip": "ModelBinding\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:40:06.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Models\\Employee.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\ModelBinding\\ModelBinding\\Models\\Employee.cs",
+              "RelativeToolTip": "ModelBinding\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:08:15.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

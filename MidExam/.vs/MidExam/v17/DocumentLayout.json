@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\MidExam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42654C43-F717-4171-A625-431A534A27D2}|ConsoleApp1\\ConsoleApp1.csproj|f:\\cdac\\module 8 - dotnet\\codes\\midexam\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42654C43-F717-4171-A625-431A534A27D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EEEE7E63-1DB8-4CBD-9C6E-71F7BAB5B396}|ConsoleApp2\\ConsoleApp2.csproj|f:\\cdac\\module 8 - dotnet\\codes\\midexam\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EEEE7E63-1DB8-4CBD-9C6E-71F7BAB5B396}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,24 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\MidExam\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\MidExam\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMcAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T07:52:20.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\MidExam\\ConsoleApp2\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
               "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\MidExam\\ConsoleApp2\\Program.cs",
               "RelativeToolTip": "ConsoleApp2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "ViewState": "AQIAAB4BAAAAAAAAAAAUwCEBAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-03T05:33:40.264Z",
               "EditorCaption": ""
