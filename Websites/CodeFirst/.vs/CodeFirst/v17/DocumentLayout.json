@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\codefirst\\codefirst\\models\\jkjune2024codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\jkjune2024codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|f:\\cdac\\module 8 - dotnet\\codes\\websites\\codefirst\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0992CCBE-3800-44DE-976F-2621F33824CB}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:16:08.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JKJune2024CodeFirstContext.cs",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\Models\\JKJune2024CodeFirstContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\JKJune2024CodeFirstContext.cs",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\Models\\JKJune2024CodeFirstContext.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\JKJune2024CodeFirstContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:15:06.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
+              "ToolTip": "F:\\CDAC\\Module 8 - DotNet\\Codes\\Websites\\CodeFirst\\CodeFirst\\appsettings.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T06:20:31.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

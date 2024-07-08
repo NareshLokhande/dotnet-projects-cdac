@@ -300,7 +300,6 @@ namespace ModelBindingDatabase.Models
                 SqlCommand cmdInsert = new SqlCommand("UpdateEmployee", cn)
                 {
                     CommandType = System.Data.CommandType.StoredProcedure
-
                 };
 
                 cmdInsert.Parameters.AddWithValue("@EmpNo", obj.EmpNo);
